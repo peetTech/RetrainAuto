@@ -15,4 +15,4 @@ Please do not edit train.py
 
 
 #### .pt files are the weights can detection projects
-#### we can find a default weight in file hyps.scratch.yaml
+#### we can find a default weight by yolov5 team in file hyps.scratch.yaml
